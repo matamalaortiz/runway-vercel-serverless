@@ -1,0 +1,23 @@
+{
+  "name": "runway-hosted-models-serverless-vervel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@runwayml/hosted-models": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matamalaortiz/runway-hosted-models-serverless-vervel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matamalaortiz/runway-hosted-models-serverless-vervel/issues"
+  },
+  "homepage": "https://github.com/matamalaortiz/runway-hosted-models-serverless-vervel#readme"
+}
