@@ -9,7 +9,8 @@
 - POST to `https://{replace-with-vercel-url.sh}/api/modelName`
 
 
-# Test
+Try:
+
 ```
 curl -d '{"prompt":"Hello World"}' -H "Content-Type: application/json" -X POST https://{replace-with-vercel-url.sh}/api/modelName
 ```
